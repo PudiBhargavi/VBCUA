@@ -1,0 +1,13 @@
+{
+  "Machine Learning": "Machine learning is a subset of AI where systems learn patterns from data to make predictions without explicit programming. It includes supervised, unsupervised, and reinforcement learning, and is used in recommendation systems, fraud detection, and speech recognition.",
+
+  "Cloud Computing": "Cloud computing is the delivery of computing services such as storage, servers, databases, and software over the internet, allowing on-demand access without owning physical infrastructure. It offers scalability, flexibility, and cost efficiency for businesses and individuals.",
+
+  "Artificial Intelligence": "Artificial intelligence refers to the simulation of human intelligence in machines, enabling them to perform tasks such as reasoning, problem-solving, perception, and language understanding. AI powers technologies like chatbots, recommendation engines, and autonomous vehicles.",
+
+  "Data Structures": "Data structures are organized ways of storing and managing data to enable efficient access and modification. Common types include arrays, linked lists, stacks, queues, trees, and graphs, each suited to different computational needs.",
+
+  "Operating Systems": "An operating system is software that manages computer hardware and software resources, providing common services for programs. It handles process management, memory management, file systems, and security, acting as an interface between users and hardware.",
+
+  "Computer Networks": "Computer networks connect multiple devices to share data and resources using communication protocols. They range from small local area networks to the global internet, enabling email, web browsing, and real-time communication."
+}

@@ -1,0 +1,10 @@
+streamlit
+librosa
+sentence-transformers
+openai-whisper
+torch
+numpy
+matplotlib
+fpdf2
+python-dotenv
+google-generativeai
